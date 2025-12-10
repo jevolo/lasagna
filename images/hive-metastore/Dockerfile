@@ -1,4 +1,4 @@
-FROM openjdk:17-slim-buster
+FROM eclipse-temurin:17-jdk
 
 SHELL ["/bin/bash", "-c"]
 
